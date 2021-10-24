@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Mohit Ludhiyani
-### 👀 I’m interested in Robotics, Machine Learning
-### 🌱 I’m currently exploring Machine Learning methods
-### 💞️ I’m looking to collaborate on Robotics, ROS, State estimation, Motion Planning, Mapping
-### Some of my works are listed below
+#### 👀 I’m interested in Robotics, Machine Learning and Data Science.
+#### 🌱 I’m currently exploring Machine Learning methods. And have good knowledge of Python, C++, ROS, PCL, Opencv, Pandas, Numpy.
+#### 💞️ I’m looking to collaborate on Robotics, ROS, State estimation, Motion Planning, Mapping, Machine Learning related projects.
+#### Some of my works are listed below
 #### Publications
 #### [Simultaneous Learning and Planning using Rapidly Exploring Random Tree* and Reinforcement Learning - ICUAS 2021](https://ieeexplore.ieee.org/abstract/document/9476861)
 #### [Multirotor dynamics based online scale estimation for monocular SLAM - ICRA 2019](https://ieeexplore.ieee.org/abstract/document/8794372)
@@ -13,7 +13,9 @@
 #### Granted Patents
 #### [System and method of multirotor dynamics based online scale estimation for monocular vision - US](https://patents.google.com/patent/US10748299B2/en)
 
-## 📫 Reach me at mludhiyani2913@gmail.com
+#### [For complete list of my papers and patents, click here!!](https://scholar.google.co.in/citations?view_op=list_works&hl=en&hl=en&user=OLtpB0sAAAAJ)
+
+#### 📫 Reach me at mludhiyani2913@gmail.com
 <!---
 mohit-ludhiyani/mohit-ludhiyani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
