@@ -1,4 +1,3 @@
-# 👋 Hi, I’m Mohit Ludhiyani
 ####  I’m interested in Robotics, Machine Learning and Data Science.
 ####  I’m currently exploring Machine Learning methods. And have good knowledge of Python, C++, ROS, PCL, Opencv, Pandas, Numpy.
 ####  I’m looking to collaborate on Robotics, ROS, State estimation, Motion Planning, Mapping, Machine Learning related projects.
